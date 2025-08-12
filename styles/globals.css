@@ -1,19 +1,2 @@
-
----
-
-### 5. `styles/globals.css`
-```css
-html,body{margin:0;padding:0;font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,PingFang SC,Noto Sans CJK SC,sans-serif;background:#0b0c10;color:#e6ebff}
+html,body{margin:0;padding:0;font-family:system-ui,ui-sans-serif,-apple-system,Segoe UI,Roboto,Helvetica Neue,Arial;}
 a{color:inherit;text-decoration:none}
-.container{max-width:960px;margin:0 auto;padding:24px}
-.hero{background:radial-gradient(800px 400px at 10% -10%,#1a1f3b 0%,transparent 60%),radial-gradient(700px 350px at 110% 10%,#32152a 0%,transparent 60%);padding:48px 24px;border-bottom:1px solid #2a304d}
-h1{font-size:32px;margin:0 0 10px}
-h2{font-size:22px;margin:24px 0 8px}
-.card{background:#11131a;border:1px solid #2a304d;border-radius:14px;padding:16px;margin:12px 0}
-.btn{display:inline-block;background:#6ea8fe;color:#0b0c10;padding:10px 14px;border-radius:10px;font-weight:700}
-.input{width:100%;padding:10px 12px;border-radius:10px;border:1px solid #2a304d;background:#0f1118;color:#e6ebff}
-.row{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-@media (max-width:780px){.row{grid-template-columns:1fr}}
-.small{color:#a8b3cf;font-size:12px}
-.footer{color:#a8b3cf;padding:24px;border-top:1px solid #2a304d}
-.badge{display:inline-block;border:1px solid #4d6bff;color:#7bf1a8;border-radius:999px;padding:3px 8px;font-size:12px;margin-right:6px}
