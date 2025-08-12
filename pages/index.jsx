@@ -15,7 +15,7 @@ export default function Home(){
       <div className="hero">
         <div className="container">
           <h1>关系教练 · 高杀伤优雅反击</h1>
-          <p>把你的 GitHub 静态页升级为可用功能站。从模板到生成器，1 分钟出结果。</p>
+          <p>面对挑衅或贬低？1 分钟帮你生成优雅高情商反击。</p>
           <p>
             <Link href="/generator" className="btn">开始生成 →</Link>
           </p>
